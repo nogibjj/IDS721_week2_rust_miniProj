@@ -1,6 +1,5 @@
 # rust-new-project-template
-A good starting point for a new Rust project
-
+This is a calculator microservice based on the template provided by Noah Gift. This app adds two more functions which are power and squareroot.
 ## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)

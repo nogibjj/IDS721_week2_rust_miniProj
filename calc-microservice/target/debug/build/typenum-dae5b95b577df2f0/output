@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/yuxinsong/IDS721/IDS721_week2_rust_miniProj/calc-microservice/target/debug/build/typenum-dae5b95b577df2f0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/yuxinsong/IDS721/IDS721_week2_rust_miniProj/calc-microservice/target/debug/build/typenum-dae5b95b577df2f0/out/op.rs
